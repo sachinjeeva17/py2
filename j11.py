@@ -1,4 +1,4 @@
-i=int(input())
-j=int(input())
-o=i**j
+t=int(input())
+u=int(input())
+o=t**u
 print(o)
