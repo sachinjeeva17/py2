@@ -1,4 +1,4 @@
-t=int(input())
 u=int(input())
-o=t**u
+v=int(input())
+o=u**v
 print(o)
