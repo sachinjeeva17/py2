@@ -7,6 +7,6 @@ for i in range(m,n):
     e=e+c**3
     p=p//10
   if(i==e):
-    primt(e,end=" ")
+    print(e,end=" ")
      
     
